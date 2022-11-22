@@ -1,0 +1,33 @@
+
+html body{
+    font-family: Arial, sans-serif;
+}
+
+.container{
+    display: flex;
+    background: lightgray;
+    width: 60%;
+    margin: 12rem;
+    padding: 2rem;
+     align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    box-shadow: 2px 2px 9px black;
+
+}
+
+#result{
+    color:red;
+}
+
+h5{
+    font-size: 19px;
+}
+
+.box{
+    display: flex;
+}
+
+.hide{
+    display: none;
+}
