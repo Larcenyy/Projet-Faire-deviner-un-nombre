@@ -34,7 +34,7 @@ function send_result() {
             break;
         }
         else{
-            result.innerHTML = "Votre résulté est bon";
+            result.innerHTML = "Votre résulté est bon, le chiffre était : " + ordinateur;
             break;
         }
     }
